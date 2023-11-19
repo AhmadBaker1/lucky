@@ -1,2 +1,0 @@
-Letter Count: 486
-Number Count: 1
